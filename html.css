@@ -8,5 +8,10 @@ text-align:center;
 p{
 color:red;
 outline-color: green;
-outline-style: inset
+outline-style: inset;
+}
+img{
+float: left;
+outline-color: purple;
+outline-style double;
 }
